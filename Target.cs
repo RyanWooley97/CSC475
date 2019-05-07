@@ -13,6 +13,7 @@ public class Target : MonoBehaviour
         {
             Die();
         }
+
     }
 
     void Die()
